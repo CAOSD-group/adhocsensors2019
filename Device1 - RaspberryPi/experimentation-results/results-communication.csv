@@ -1,0 +1,11 @@
+Operation	File Size (MB)	Execution Time (s)	Mean Power (W)	Energy Consumption (J)
+sending	1	3,135	0,07	0,23
+sending	2	4,409	0,08	0,58
+sending	4	5,178	0,11	1,27
+sending	8	9,149	0,14	2,2
+sending	16	17,156	0,2	5,56
+sending	32	29,708	0,28	11,46
+sending	64	62,971	0,31	25,23
+sending	128	120,444	0,37	51,39
+sending	256	243,456	0,43	121,3
+sending	512	489,903	0,4	224,19

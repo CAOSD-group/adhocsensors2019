@@ -1,0 +1,31 @@
+Algorithm	Tool	File size (MB)	Compressed file size (MB)	Execution Time (s)	Mean Power (W)	Energy Consumption (J)
+DEFLATE (LZ77, Lempel-Ziv 1977)	gzip	1	1	0,598	0	0
+DEFLATE (LZ77, Lempel-Ziv 1977)	gzip	2	1	1,104	0,07	0,23
+DEFLATE (LZ77, Lempel-Ziv 1977)	gzip	4	2	2,172	0,1	1,04
+DEFLATE (LZ77, Lempel-Ziv 1977)	gzip	8	4	4,339	0,2	3,7
+DEFLATE (LZ77, Lempel-Ziv 1977)	gzip	16	8	9,256	0,29	7,64
+DEFLATE (LZ77, Lempel-Ziv 1977)	gzip	32	15	17,109	0,43	17,48
+DEFLATE (LZ77, Lempel-Ziv 1977)	gzip	64	29	37,487	0,61	40,16
+DEFLATE (LZ77, Lempel-Ziv 1977)	gzip	128	58	74,014	0,7	74,19
+DEFLATE (LZ77, Lempel-Ziv 1977)	gzip	256	115	149,974	0,81	157,52
+DEFLATE (LZ77, Lempel-Ziv 1977)	gzip	512	229	314,398	0,87	336,11
+Burrows-Wheeler	bzip2	1	1	0,759	0	0
+Burrows-Wheeler	bzip2	2	1	1,511	0,09	0,81
+Burrows-Wheeler	bzip2	4	2	3,448	0,15	2,31
+Burrows-Wheeler	bzip2	8	4	5,628	0,21	4,63
+Burrows-Wheeler	bzip2	16	7	11,415	0,33	9,84
+Burrows-Wheeler	bzip2	32	13	22,557	0,44	22,22
+Burrows-Wheeler	bzip2	64	25	49,285	0,61	46,76
+Burrows-Wheeler	bzip2	128	50	98,421	0,71	92,82
+Burrows-Wheeler	bzip2	256	100	202,793	0,77	193,98
+Burrows-Wheeler	bzip2	512	198	391,534	0,81	382,87
+LZMA2	xz	1	1	3,153	0,2	1,39
+LZMA2	xz	2	1	7,2	0,32	5,56
+LZMA2	xz	4	2	16,474	0,47	14,81
+LZMA2	xz	8	4	37,331	0,65	36,23
+LZMA2	xz	16	7	80,964	0,77	81,71
+LZMA2	xz	32	13	166,734	0,83	170,37
+LZMA2	xz	64	26	342,677	0,86	353,82
+LZMA2	xz	128	51	687,723	0,87	703,24
+LZMA2	xz	256	101	1000	1000	1000
+LZMA2	xz	512	199	1000	1000	1000

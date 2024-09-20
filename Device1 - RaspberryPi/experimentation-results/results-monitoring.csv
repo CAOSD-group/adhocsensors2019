@@ -1,0 +1,9 @@
+Operation	Parameters	Records	File size (KB)	File size (MB)	Execution Time (s)	Mean Power (W)	Energy Consumption (J)
+monitoring/generation file	1	86400	1764	1,72265625	0,949	0,17	0,58
+monitoring/generation file	2	86400	3028	2,95703125	1,304	0,17	0,58
+monitoring/generation file	4	86400	5560	5,4296875	1,969	0,18	1,04
+monitoring/generation file	8	86400	10624	10,375	3,242	0,23	2,08
+monitoring/generation file	16	86400	20748	20,26171875	6,013	0,29	5,9
+monitoring/generation file	32	86400	40996	40,03515625	11,307	0,38	11,34
+monitoring/generation file	64	86400	81500	79,58984375	22,156	0,52	23,5
+monitoring/generation file	128	86400	162496	158,6875	45,099	0,59	50,23

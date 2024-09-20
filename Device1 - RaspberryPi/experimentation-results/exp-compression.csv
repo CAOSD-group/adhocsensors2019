@@ -1,0 +1,121 @@
+Run	Operation	Algorithm	Tool	Compression level *	Parameters	Records	File size (KB)	Compressed file size (KB)	Execution Time (s)	Mean Power (W)	Energy Consumption (J)
+1	Compression	DEFLATE (LZ77, Lempel-Ziv 1977)	gzip	6 (default)	1	86400	1764	768	1,032	0,05	0,12
+2	Compression	DEFLATE (LZ77, Lempel-Ziv 1977)	gzip	6 (default)	1	86400	1764	768	1,029	0,07	0,23
+3	Compression	DEFLATE (LZ77, Lempel-Ziv 1977)	gzip	6 (default)	1	86400	1764	768	1,02	0,05	0,12
+4	Compression	DEFLATE (LZ77, Lempel-Ziv 1977)	gzip	6 (default)	1	86400	1764	768	1,027	0,05	0,12
+5	Compression	DEFLATE (LZ77, Lempel-Ziv 1977)	gzip	6 (default)	1	86400	1764	768	1,026	0,05	0,12
+1	Compression	DEFLATE (LZ77, Lempel-Ziv 1977)	gzip	6 (default)	2	86400	3028	1344	1,73	0,08	0,58
+2	Compression	DEFLATE (LZ77, Lempel-Ziv 1977)	gzip	6 (default)	2	86400	3028	1344	1,721	0,09	0,69
+3	Compression	DEFLATE (LZ77, Lempel-Ziv 1977)	gzip	6 (default)	2	86400	3028	1344	1,72	0,08	0,58
+4	Compression	DEFLATE (LZ77, Lempel-Ziv 1977)	gzip	6 (default)	2	86400	3028	1344	1,741	0,09	0,69
+5	Compression	DEFLATE (LZ77, Lempel-Ziv 1977)	gzip	6 (default)	2	86400	3028	1344	1,741	0,08	0,58
+1	Compression	DEFLATE (LZ77, Lempel-Ziv 1977)	gzip	6 (default)	4	86400	5560	2488	3,004	0,2	1,16
+2	Compression	DEFLATE (LZ77, Lempel-Ziv 1977)	gzip	6 (default)	4	86400	5560	2488	2,998	0,18	1,04
+3	Compression	DEFLATE (LZ77, Lempel-Ziv 1977)	gzip	6 (default)	4	86400	5560	2488	2,99	0,2	1,39
+4	Compression	DEFLATE (LZ77, Lempel-Ziv 1977)	gzip	6 (default)	4	86400	5560	2488	2,991	0,18	1,27
+5	Compression	DEFLATE (LZ77, Lempel-Ziv 1977)	gzip	6 (default)	4	86400	5560	2488	3,023	0,18	1,27
+1	Compression	DEFLATE (LZ77, Lempel-Ziv 1977)	gzip	6 (default)	8	86400	10624	4764	5,595	0,3	4,86
+2	Compression	DEFLATE (LZ77, Lempel-Ziv 1977)	gzip	6 (default)	8	86400	10624	4764	5,589	0,3	4,51
+3	Compression	DEFLATE (LZ77, Lempel-Ziv 1977)	gzip	6 (default)	8	86400	10624	4764	5,572	0,3	4,86
+4	Compression	DEFLATE (LZ77, Lempel-Ziv 1977)	gzip	6 (default)	8	86400	10624	4764	5,6	0,29	4,05
+5	Compression	DEFLATE (LZ77, Lempel-Ziv 1977)	gzip	6 (default)	8	86400	10624	4764	5,808	0,31	4,98
+1	Compression	DEFLATE (LZ77, Lempel-Ziv 1977)	gzip	6 (default)	16	86400	20748	9308	12,358	0,41	10,88
+2	Compression	DEFLATE (LZ77, Lempel-Ziv 1977)	gzip	6 (default)	16	86400	20748	9308	10,852	0,4	10,53
+3	Compression	DEFLATE (LZ77, Lempel-Ziv 1977)	gzip	6 (default)	16	86400	20748	9308	10,887	0,42	10,76
+4	Compression	DEFLATE (LZ77, Lempel-Ziv 1977)	gzip	6 (default)	16	86400	20748	9308	10,862	0,42	11,23
+5	Compression	DEFLATE (LZ77, Lempel-Ziv 1977)	gzip	6 (default)	16	86400	20748	9308	10,863	0,42	10,65
+1	Compression	DEFLATE (LZ77, Lempel-Ziv 1977)	gzip	6 (default)	32	86400	40996	18392	21,386	0,53	20,37
+2	Compression	DEFLATE (LZ77, Lempel-Ziv 1977)	gzip	6 (default)	32	86400	40996	18392	21,395	0,54	20,6
+3	Compression	DEFLATE (LZ77, Lempel-Ziv 1977)	gzip	6 (default)	32	86400	40996	18392	21,401	0,55	21,18
+4	Compression	DEFLATE (LZ77, Lempel-Ziv 1977)	gzip	6 (default)	32	86400	40996	18392	21,27	0,55	20,25
+5	Compression	DEFLATE (LZ77, Lempel-Ziv 1977)	gzip	6 (default)	32	86400	40996	18392	21,232	0,55	20,25
+1	Compression	DEFLATE (LZ77, Lempel-Ziv 1977)	gzip	6 (default)	64	86400	81500	36544	41,974	0,67	41,9
+2	Compression	DEFLATE (LZ77, Lempel-Ziv 1977)	gzip	6 (default)	64	86400	81500	36544	42,012	0,68	42,59
+3	Compression	DEFLATE (LZ77, Lempel-Ziv 1977)	gzip	6 (default)	64	86400	81500	36544	41,955	0,68	42,25
+4	Compression	DEFLATE (LZ77, Lempel-Ziv 1977)	gzip	6 (default)	64	86400	81500	36544	42,142	0,69	42,25
+5	Compression	DEFLATE (LZ77, Lempel-Ziv 1977)	gzip	6 (default)	64	86400	81500	36544	42,015	0,68	42,01
+1	Compression	DEFLATE (LZ77, Lempel-Ziv 1977)	gzip	6 (default)	128	86400	162496	72848	86,089	0,81	91,67
+2	Compression	DEFLATE (LZ77, Lempel-Ziv 1977)	gzip	6 (default)	128	86400	162496	72848	85,83	0,77	89,12
+3	Compression	DEFLATE (LZ77, Lempel-Ziv 1977)	gzip	6 (default)	128	86400	162496	72848	87,676	0,77	89,58
+4	Compression	DEFLATE (LZ77, Lempel-Ziv 1977)	gzip	6 (default)	128	86400	162496	72848	90,58	0,77	92,25
+5	Compression	DEFLATE (LZ77, Lempel-Ziv 1977)	gzip	6 (default)	128	86400	162496	72848	86,904	0,78	90,74
+1	Compression	Burrows-Wheeler	bzip2	9 (default)	1	86400	1764	716	1,159	0,07	0,23
+2	Compression	Burrows-Wheeler	bzip2	9 (default)	1	86400	1764	716	1,186	0,05	0,12
+3	Compression	Burrows-Wheeler	bzip2	9 (default)	1	86400	1764	716	1,19	0,05	0,12
+4	Compression	Burrows-Wheeler	bzip2	9 (default)	1	86400	1764	716	1,195	0,05	0,12
+5	Compression	Burrows-Wheeler	bzip2	9 (default)	1	86400	1764	716	1,169	0,07	0,35
+1	Compression	Burrows-Wheeler	bzip2	9 (default)	2	86400	3028	1212	1,987	0,09	0,81
+2	Compression	Burrows-Wheeler	bzip2	9 (default)	2	86400	3028	1212	1,992	0,09	0,69
+3	Compression	Burrows-Wheeler	bzip2	9 (default)	2	86400	3028	1212	2,022	0,1	1,04
+4	Compression	Burrows-Wheeler	bzip2	9 (default)	2	86400	3028	1212	2,019	0,09	0,81
+5	Compression	Burrows-Wheeler	bzip2	9 (default)	2	86400	3028	1212	1,98	0,09	0,69
+1	Compression	Burrows-Wheeler	bzip2	9 (default)	4	86400	5560	2188	3,737	0,22	1,5
+2	Compression	Burrows-Wheeler	bzip2	9 (default)	4	86400	5560	2188	3,775	0,2	1,39
+3	Compression	Burrows-Wheeler	bzip2	9 (default)	4	86400	5560	2188	3,781	0,21	1,74
+4	Compression	Burrows-Wheeler	bzip2	9 (default)	4	86400	5560	2188	3,785	0,22	1,5
+5	Compression	Burrows-Wheeler	bzip2	9 (default)	4	86400	5560	2188	3,756	0,21	1,74
+1	Compression	Burrows-Wheeler	bzip2	9 (default)	8	86400	10624	4144	7,307	0,29	4,75
+2	Compression	Burrows-Wheeler	bzip2	9 (default)	8	86400	10624	4144	7,269	0,3	4,86
+3	Compression	Burrows-Wheeler	bzip2	9 (default)	8	86400	10624	4144	7,271	0,29	4,4
+4	Compression	Burrows-Wheeler	bzip2	9 (default)	8	86400	10624	4144	7,255	0,29	4,75
+5	Compression	Burrows-Wheeler	bzip2	9 (default)	8	86400	10624	4144	7,244	0,3	4,86
+1	Compression	Burrows-Wheeler	bzip2	9 (default)	16	86400	20748	8044	14,226	0,42	11,23
+2	Compression	Burrows-Wheeler	bzip2	9 (default)	16	86400	20748	8044	14,26	0,43	11,92
+3	Compression	Burrows-Wheeler	bzip2	9 (default)	16	86400	20748	8044	14,589	0,43	11,81
+4	Compression	Burrows-Wheeler	bzip2	9 (default)	16	86400	20748	8044	14,142	0,43	11,34
+5	Compression	Burrows-Wheeler	bzip2	9 (default)	16	86400	20748	8044	14,106	0,41	11
+1	Compression	Burrows-Wheeler	bzip2	9 (default)	32	86400	40996	15844	28,725	0,56	25,81
+2	Compression	Burrows-Wheeler	bzip2	9 (default)	32	86400	40996	15844	28,165	0,57	25,12
+3	Compression	Burrows-Wheeler	bzip2	9 (default)	32	86400	40996	15844	28,561	0,56	25,35
+4	Compression	Burrows-Wheeler	bzip2	9 (default)	32	86400	40996	15844	28,902	0,56	25,35
+5	Compression	Burrows-Wheeler	bzip2	9 (default)	32	86400	40996	15844	27,903	0,56	24,07
+1	Compression	Burrows-Wheeler	bzip2	9 (default)	64	86400	81500	31432	56,364	0,67	52,78
+2	Compression	Burrows-Wheeler	bzip2	9 (default)	64	86400	81500	31432	55,976	0,69	52,89
+3	Compression	Burrows-Wheeler	bzip2	9 (default)	64	86400	81500	31432	56,628	0,69	53,13
+4	Compression	Burrows-Wheeler	bzip2	9 (default)	64	86400	81500	31432	56,142	0,69	53,13
+5	Compression	Burrows-Wheeler	bzip2	9 (default)	64	86400	81500	31432	56,881	0,68	53,36
+1	Compression	Burrows-Wheeler	bzip2	9 (default)	128	86400	162496	62608	115,277	0,75	110,88
+2	Compression	Burrows-Wheeler	bzip2	9 (default)	128	86400	162496	62608	115,986	0,76	112,04
+3	Compression	Burrows-Wheeler	bzip2	9 (default)	128	86400	162496	62608	119,189	0,74	113,19
+4	Compression	Burrows-Wheeler	bzip2	9 (default)	128	86400	162496	62608	114,497	0,76	111,11
+5	Compression	Burrows-Wheeler	bzip2	9 (default)	128	86400	162496	62608	117,144	0,75	111,81
+1	Compression	LZMA2	xz	6 (default)	1	86400	1764	588	5,686	0,27	3,47
+2	Compression	LZMA2	xz	6 (default)	1	86400	1764	588	5,661	0,28	3,94
+3	Compression	LZMA2	xz	6 (default)	1	86400	1764	588	5,683	0,28	4,17
+4	Compression	LZMA2	xz	6 (default)	1	86400	1764	588	5,66	0,28	3,94
+5	Compression	LZMA2	xz	6 (default)	1	86400	1764	588	5,641	0,28	3,94
+1	Compression	LZMA2	xz	6 (default)	2	86400	3028	1136	11,133	0,38	8,8
+2	Compression	LZMA2	xz	6 (default)	2	86400	3028	1136	11,222	0,4	9,61
+3	Compression	LZMA2	xz	6 (default)	2	86400	3028	1136	11,203	0,4	9,26
+4	Compression	LZMA2	xz	6 (default)	2	86400	3028	1136	11,152	0,4	9,26
+5	Compression	LZMA2	xz	6 (default)	2	86400	3028	1136	11,171	0,4	9,61
+1	Compression	LZMA2	xz	6 (default)	4	86400	5560	2192	23,392	0,54	20,02
+2	Compression	LZMA2	xz	6 (default)	4	86400	5560	2192	23,371	0,52	20,37
+3	Compression	LZMA2	xz	6 (default)	4	86400	5560	2192	23,328	0,54	20,14
+4	Compression	LZMA2	xz	6 (default)	4	86400	5560	2192	23,374	0,54	20,14
+5	Compression	LZMA2	xz	6 (default)	4	86400	5560	2192	23,384	0,53	20,14
+1	Compression	LZMA2	xz	6 (default)	8	86400	10624	4192	50,017	0,66	45,95
+2	Compression	LZMA2	xz	6 (default)	8	86400	10624	4192	49,909	0,67	46,76
+3	Compression	LZMA2	xz	6 (default)	8	86400	10624	4192	49,699	0,67	46,3
+4	Compression	LZMA2	xz	6 (default)	8	86400	10624	4192	49,753	0,66	46,18
+5	Compression	LZMA2	xz	6 (default)	8	86400	10624	4192	49,731	0,67	46,06
+1	Compression	LZMA2	xz	6 (default)	16	86400	20748	8244	103,998	0,75	98,73
+2	Compression	LZMA2	xz	6 (default)	16	86400	20748	8244	104,005	0,75	99,42
+3	Compression	LZMA2	xz	6 (default)	16	86400	20748	8244	103,524	0,76	99,19
+4	Compression	LZMA2	xz	6 (default)	16	86400	20748	8244	103,952	0,74	98,96
+5	Compression	LZMA2	xz	6 (default)	16	86400	20748	8244	103,628	0,75	100,12
+1	Compression	LZMA2	xz	6 (default)	32	86400	40996	16188	212,456	0,8	206,37
+2	Compression	LZMA2	xz	6 (default)	32	86400	40996	16188	211,207	0,82	208,8
+3	Compression	LZMA2	xz	6 (default)	32	86400	40996	16188	212,511	0,81	207,87
+4	Compression	LZMA2	xz	6 (default)	32	86400	40996	16188	212,195	0,8	205,79
+5	Compression	LZMA2	xz	6 (default)	32	86400	40996	16188	212,819	0,8	206,25
+1	Compression	LZMA2	xz	6 (default)	64	86400	81500	32044	427,072	0,82	415,16
+2	Compression	LZMA2	xz	6 (default)	64	86400	81500	32044	429,141	0,83	419,91
+3	Compression	LZMA2	xz	6 (default)	64	86400	81500	32044	430,255	0,83	424,88
+4	Compression	LZMA2	xz	6 (default)	64	86400	81500	32044	431,024	0,83	422,45
+5	Compression	LZMA2	xz	6 (default)	64	86400	81500	32044	431,434	0,83	422,8
+1	Compression	LZMA2	xz	6 (default)	128	86400	162496	63804	866,145	0,84	851,74
+2	Compression	LZMA2	xz	6 (default)	128	86400	162496	63804	863,249	0,85	864,12
+3	Compression	LZMA2	xz	6 (default)	128	86400	162496	63804	864,814	0,84	854,86
+4	Compression	LZMA2	xz	6 (default)	128	86400	162496	63804	864,196	0,85	863,43
+5	Compression	LZMA2	xz	6 (default)	128	86400	162496	63804	866,988	0,86	873,5
